@@ -1,2 +1,3 @@
 # softwareTest
-to check pulland push
+Hi, this is git 
+
